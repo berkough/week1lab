@@ -17,7 +17,8 @@ let firstName = 'John';
 let address = '1234 Fake Street';
 
 //print all variables to the console
-console.log(planeSeats+' '+groceryBill+''+middleInitial+''+hotTemp+''+firstName+''+address);
+console.log('Print the variables:');
+console.log(planeSeats+' '+groceryBill+' '+middleInitial+' '+hotTemp+' '+firstName+' '+address);
 
 
 
@@ -38,4 +39,5 @@ hotTemp = false;
 let fullName = firstName+' '+middleInitial+' Rockafella';
 
 //print a line to the console that introduces the customer and says they live at the address variable
+console.log('Print a sentence using variables:');
 console.log('Hello, this is '+fullName+' he lives at '+address+'.');
