@@ -35,7 +35,7 @@ middleInitial = 'D';
 hotTemp = false;
 
 //create a new variable called full name using the customer's first name, the middle initial, and a last name of your choice
-let fullName = firstName + middleInitial + 'Rockafella';
+let fullName = firstName+' '+middleInitial+' Rockafella';
 
 //print a line to the console that introduces the customer and says they live at the address variable
 console.log('Hello, this is '+fullName+' he lives at '+address+'.');
