@@ -2,7 +2,7 @@
 let planeSeats = 100;
 		
 //create a variable to hold the cost of groceries at checkout
-let groceryBill = 0.0;
+let groceryBill = 125.20;
 
 //create a variable to hold a person's middle initial
 let middleInitial = 'P';
