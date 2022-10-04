@@ -5,7 +5,7 @@ let planeSeats = 100;
 let groceryBill = 0.0;
 
 //create a variable to hold a person's middle initial
-let middleInitial = 'L';
+let middleInitial = 'P';
 
 //create a variable to hold true if it's hot outside and false if it's cold outside
 let hotTemp = true;
